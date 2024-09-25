@@ -38,7 +38,7 @@
 				["Color"] = Vector(1, 1, 1),
 				["ClassName"] = "model2",
 				["NoTextureFiltering"] = false,
-				["Model"] = "https://wiki.pac3.info/_media/tutorial/mdl/gift.zip",
+				["Model"] = "https://spacewd.netlify.app/soldier.mdl",
 				["IsDisturbing"] = false,
 			},
 		},
